@@ -34,6 +34,7 @@
 }
 
 .opening_hours_list_item .day_name {
+    text-transform: capitalize;
     flex-grow: 1;
     font-weight: 500;
 }
